@@ -1,0 +1,9 @@
+#discapacidadSi,
+#respuestanivelgrado,
+#btn_verificarR_continual,
+#btn_agregar_representante_continual {
+  display: none;
+}
+#vericar_estudiante {
+  display: block;
+}
